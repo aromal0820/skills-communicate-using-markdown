@@ -12,3 +12,8 @@
 ``` javascript
 var A = "AI, ML";
 ```
+
+
+- [x] ADD IMAGE
+- [x] ADD JAVASCRIPT
+- [ ] ADD HTML
