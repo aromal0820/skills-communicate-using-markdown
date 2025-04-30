@@ -7,3 +7,8 @@
 
 
 ![Image of AIML](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7Rmhr_fSskJUOvfZE84F9Dyk7JFO0IWV--g&s)
+
+
+``` javascript
+var A = "AI, ML";
+```
